@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdbfaef2-e183-4d64-b030-189ff10bf21e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Boot.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Boot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="/run/media/colt/Devastator/Programs/Android/2.8.03-Solution-VictoryOverlay" value="10264030387392" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android030_libGDX" value="5841137887145" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android066_Udacity_course_Render" value="4267545870000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android067_Udacity_course_Compute" value="4315050905959" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android069_Udacity_course_Battery" value="4356338566840" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android071_Udacity_course_Material_Design_FabDemo" value="4393519102626" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android072_Udacity_course_Material_Design_SimplePaperTransformations" value="4393530789646" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android073_Udacity_course_Material_Design_DynamicSurfacesDemo" value="4393537113863" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android076_Udacity_course_Material_Design_PickPalette" value="4393829191500" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android077_Udacity_course_Material_Design_ImmersiveImages" value="4393839146851" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android078_Udacity_course_Material_Design_TransitionDemo" value="4393846039237" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android079_Udacity_course_Material_Design_TransitionsQuiz" value="4393848086343" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android081_Udacity_course_Material_Design_InterpolationDemo" value="4393880177949" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android084_Udacity_course_Material_Design_CoordinatedMotion" value="4394015158769" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android085_Udacity_course_Material_Design_HeartFill" value="4394030376815" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android086_Udacity_course_Material_Design_TickCross" value="4394035131634" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android088_Udacity_course_libGDX_GettingStartedWithLibGDX" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android089_Udacity_course_libGDX_DrawingPoints" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android090_Udacity_course_libGDX_DrawAStarfield" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android091_Udacity_course_libGDX_DrawingLines" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android092_Udacity_course_libGDX_ConnectTheDots" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android093_Udacity_course_libGDX_DrawASpiral" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android094_Udacity_course_libGDX_DrawingRectangles" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android095_Udacity_course_libGDX_RectangularFlower" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android096_Udacity_course_libGDX_DrawTheCantorGasket" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android097_Udacity_course_libGDX_DrawTheDragonCurve" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android098_Udacity_course_libGDX_CirclesAndArcs" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android099_Udacity_course_libGDX_StickFigure" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android100_Udacity_course_libGDX_Cameras" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android101_Udacity_course_libGDX_SolarSystem" value="10232794633013" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android102_Udacity_course_libGDX_OrthographicCamera" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android103_Udacity_course_libGDX_Viewports" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android104_Udacity_course_libGDX_Viewports" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android105_Udacity_course_libGDX_SmileyFace" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android106_Udacity_course_libGDX_Text" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android107_Udacity_course_libGDX_WordCloud" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android108_Udacity_course_libGDX_CyclicOverlap" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android109_Udacity_course_libGDX_SierpinskiTriangle" value="10232803546303" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android110_Udacity_course_libGDX_CircularMotion" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android111_Udacity_course_libGDX_ReciprocatingMotion" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android112_Udacity_course_libGDX_GamesAndScreens" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android113_Udacity_course_libGDX_ApplicationAdapterToGame" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android114_Udacity_course_libGDX_FPSCounter" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android115_Udacity_course_libGDX_FallingObjects" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android116_Udacity_course_libGDX_ScreenSaver" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android117_Udacity_course_libGDX_InputTestbed" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android118_Udacity_course_libGDX_InputPolling" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android119_Udacity_course_libGDX_ArrowKeyMovement" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android120_Udacity_course_libGDX_InputAdapter" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android121_Udacity_course_libGDX_ResetKey" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android122_Udacity_course_libGDX_Demo-Flick" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android123_Udacity_course_libGDX_FollowTheFinger" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android124_Udacity_course_libGDX_AccelerometerInput" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android125_Udacity_course_libGDX_BubbleLevel" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android126_Udacity_course_libGDX_AccelerometerMovement" value="10226836844000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android127_Udacity_course_libGDX_SuperCvetic" value="5881749284142" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android128_Udacity_course_libGDX_2_LogApplicationType" value="10263443472533" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android129_Udacity_course_libGDX_2_FileLoading" value="10263444186392" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android130_Udacity_course_libGDX_2_TextureDrawing" value="10263446926051" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android131_Udacity_course_libGDX_2_Filtering" value="10263451099328" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android132_Udacity_course_libGDX_2_LoadA9Patch" value="10263452199041" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android133_Udacity_course_libGDX_2_Animations" value="10263454550628" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android134_Udacity_course_libGDX_2_CreatingATextureAtlas" value="10263457435478" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android135_Udacity_course_libGDX_2_GigaGal" value="7336015760655" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android154_ShoppingListPlusPlus" value="4428037276330" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Android160_Basketball" value="8619342374000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/Sunshine-Version-2-sunshine_master" value="4361445280839" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/android_camera2_api_video_app-master" value="2953623640000" />
+        <entry key="/run/media/colt/Devastator/Programs/Android/test" value="10293049379966" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle032_Udacity_course_ImportingGradleProjects" value="1465466654000" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle033_Udacity_course_ImportAJavaProject" value="2931902103770" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle034_Udacity_course_TheDefaultAndroidBuildScripts" value="4398339706591" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle035_Udacity_course_BuildTypes" value="4398343512617" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle036_Udacity_course_ConfigureBuildTypes" value="5863811398636" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle037_Udacity_course_DeclaringFlavors" value="4398347891777" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle038_Udacity_course_DeclareFlavors" value="5863821131944" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle039_Udacity_course_AddAFlavor-SpecificActivity" value="4398358463145" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle040_Udacity_course_Flavor-SpecificDependencies" value="4398365067440" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle041_Udacity_course_CreatingAJavaLibrary" value="5862903195549" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle043_Udacity_course_Gradle_CreatingAnAndroidLibrary" value="5863959937175" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle045_Udacity_course_Gradle_AddingASigningConfiguration" value="4398506804382" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle046_Udacity_course_Gradle_ConfigureSigning" value="4398509597631" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle047_Udacity_course_Gradle_MultidexSupport" value="4398512743876" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle048_Udacity_course_Gradle_ConfiguringProguard" value="4397457945685" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle049_Udacity_course_Gradle_AndroidUnitTesting" value="4398547821736" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/Gradle050_Udacity_course_Gradle_SetUpUnitTesting" value="4398550275531" />
+        <entry key="/run/media/colt/Devastator/Programs/Gradle/solution" value="4398553991963" />
+        <entry key="/run/media/colt/Devastator/Programs/Temp/MultiLevelExpandableIndentableListView-master" value="2900458541820" />
+        <entry key="/run/media/colt/Devastator/Programs/Temp/yahnac-master" value="2945957492000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Boot.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="291" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code maturity issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java136_Background_Mode_VoIP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java136_Background_Mode_VoIP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.splitter.proportion" value="0.2596525" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Boot">
+    <configuration name="Boot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Boot" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java136_Background_Mode_VoIP" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Boot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdbfaef2-e183-4d64-b030-189ff10bf21e" name="Default" comment="" />
+      <created>1507542958314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507542958314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26923078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18447137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957264" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Boot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Boot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="29" column="41" lean-forward="false" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 23 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
